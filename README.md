@@ -42,12 +42,12 @@ OS: Learning Mode
 [![LinkedIn](https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-emmanuel-valdez-vanderas-50786a292)
 
 <p align="center">
-  **![Hacker](https://img.shields.io/badge/-Cyber_Security-E34F26?style=flat&logo=icloud&logoColor=white)
-  ![Shield](https://img.shields.io/badge/-Digital_Defense-4B32C3?style=flat&logo=shield&logoColor=white)**![HackerOne]
-  (https://img.shields.io/badge/-HackerOne-DA4453?style=flat-square&logo=hackerone&logoColor=white)
-  ![Digital_Defense](https://img.shields.io/badge/-Digital_Defense-4B32C3?style=flat-square&logo=lock&logoColor=white)
-
-  <em>Systems under constant security reinforcement</em>
+  ![Security](https://img.shields.io/badge/-Security-4B32C3?style=for-the-badge&logo=securityscorecard&logoColor=white)
+  ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-FF6D00?style=for-the-badge&logo=cyberdefenders&logoColor=white)
+  ![HackerOne](https://img.shields.io/badge/-Bug_Bounty-DA4453?style=for-the-badge&logo=hackerone&logoColor=white)
+  ![Encryption](https://img.shields.io/badge/-Encryption-000000?style=for-the-badge&logo=letsencrypt&logoColor=white)
+  <br>
+  <em>🚀 Systems under constant security reinforcement 🔒</em>
 </p>
 
 ---
