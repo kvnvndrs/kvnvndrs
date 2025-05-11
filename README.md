@@ -33,6 +33,7 @@ OS: Learning Mode
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Network Security](https://img.shields.io/badge/Network_Security-4B32C3?style=for-the-badge&logo=network-attachment-storage&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hatenabookmark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-252525?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
 
@@ -41,12 +42,15 @@ OS: Learning Mode
 [![LinkedIn](https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-emmanuel-valdez-vanderas-50786a292)
 
 <p align="center">
-  ![Hacker](https://img.shields.io/badge/-Cyber_Security-E34F26?style=flat&logo=icloud&logoColor=white)
-  ![Shield](https://img.shields.io/badge/-Digital_Defense-4B32C3?style=flat&logo=shield&logoColor=white)
+  **![Hacker](https://img.shields.io/badge/-Cyber_Security-E34F26?style=flat&logo=icloud&logoColor=white)
+  ![Shield](https://img.shields.io/badge/-Digital_Defense-4B32C3?style=flat&logo=shield&logoColor=white)**![HackerOne]
+  (https://img.shields.io/badge/-HackerOne-DA4453?style=flat-square&logo=hackerone&logoColor=white)
+  ![Digital_Defense](https://img.shields.io/badge/-Digital_Defense-4B32C3?style=flat-square&logo=lock&logoColor=white)
+
   <em>Systems under constant security reinforcement</em>
 </p>
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=kvnvndrs&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvnvndrs&show_icons=true&theme=radical&count_private=true&hide=stars,contribs&line_height=24&custom_title=My%20GitHub%20Statistics)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnvndrs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
