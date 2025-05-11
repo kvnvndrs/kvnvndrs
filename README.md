@@ -42,12 +42,10 @@ OS: Learning Mode
 [![LinkedIn](https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-emmanuel-valdez-vanderas-50786a292)
 
 <p align="center">
-  ![Security](https://img.shields.io/badge/-Security-4B32C3?style=for-the-badge&logo=securityscorecard&logoColor=white)
-  ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-FF6D00?style=for-the-badge&logo=cyberdefenders&logoColor=white)
-  ![HackerOne](https://img.shields.io/badge/-Bug_Bounty-DA4453?style=for-the-badge&logo=hackerone&logoColor=white)
-  ![Encryption](https://img.shields.io/badge/-Encryption-000000?style=for-the-badge&logo=letsencrypt&logoColor=white)
-  <br>
-  <em>🚀 Systems under constant security reinforcement 🔒</em>
+  ![Bug Bounty](https://img.shields.io/badge/-Bug_Bounty-DA4453?style=for-the-badge&logo=hackerone&logoColor=white)  
+![Pen Testing](https://img.shields.io/badge/-Pen_Testing-4B32C3?style=for-the-badge&logo=bugcrowd&logoColor=white)  
+![Encryption](https://img.shields.io/badge/-Encryption-000000?style=for-the-badge&logo=lock&logoColor=white&logoSource=octicon)  
+![Digital Defense](https://img.shields.io/badge/-Digital_Defense-0A66C2?style=for-the-badge&logo=shield&logoColor=white&logoSource=octicon)
 </p>
 
 ---
