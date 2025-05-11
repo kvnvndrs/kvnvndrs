@@ -41,5 +41,4 @@ OS: Learning Mode
 
 ---
 
-[![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvnvndrs&show_icons=true&theme=radical&count_private=true&hide=stars,contribs&line_height=24&custom_title=My%20GitHub%20Statistics)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnvndrs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
