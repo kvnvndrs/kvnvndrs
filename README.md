@@ -1,19 +1,15 @@
-# 🛡️ Welcome to My Cyber Fortress
+# 🛡️ Welcome to My Cyber Profile
 
 <p align="center">
   <img src="https://img.icons8.com/nolan/96/shield.png" alt="Shield Icon" width="150">
 </p>
 
-> **"In the battle against cyber threats, vigilance is our strongest firewall"** - _Emmanuel Valdez_
-
----
-
 ## 🔐 Digital Guardian Profile
 
 ```bash
 Name: Emmanuel Valdez
-Role: Cybersecurity Enthusiast | Secure Code Warrior
-OS: Learning Mode 24/7
+Role: Cybersecurity Enthusiast | セキュリティの鬼
+OS: Learning Mode
 ```
   
 ---
@@ -33,29 +29,24 @@ OS: Learning Mode 24/7
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Encryption](https://img.shields.io/badge/Encryption-8A2BE2?style=for-the-badge&logo=internet-explorer&logoColor=white)
-
----
-
-## 🔍 Threat Hunter Skills
-
-| ![Vulnerability](https://img.icons8.com/dusk/64/000000/security-checked.png) Vulnerability Assessment | ![Forensics](https://img.icons8.com/dusk/64/000000/fingerprint.png) Digital Forensics |
-|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| ![Risk](https://img.icons8.com/dusk/64/000000/security-configuration.png) Risk Management             | ![Network](https://img.icons8.com/dusk/64/000000/networking.png) Network Security     |
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Network Security](https://img.shields.io/badge/Network_Security-4B32C3?style=for-the-badge&logo=network-attachment-storage&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hatenabookmark&logoColor=white)
 
 ---
 
 ## 🚨 Cyber Command Center
 
 [![LinkedIn](https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-emmanuel-valdez-vanderas-50786a292)
-[![GitHub](https://img.shields.io/badge/-ANALYZE%20MY%20CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
 
 <p align="center">
-  <img src="https://img.icons8.com/nolan/64/hacker.png" alt="Hacker Icon" width="50"> 
+  ![Hacker](https://img.shields.io/badge/-Cyber_Security-E34F26?style=flat&logo=icloud&logoColor=white)
+  ![Shield](https://img.shields.io/badge/-Digital_Defense-4B32C3?style=flat&logo=shield&logoColor=white)
   <em>Systems under constant security reinforcement</em>
 </p>
 
 ---
 
-![Cyber Stats](https://github-readme-hacker-stats.vercel.app/api?username=yourusername&theme=dark)
+[![Stats](https://github-readme-stats.vercel.app/api?username=kvnvndrs&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnvndrs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
