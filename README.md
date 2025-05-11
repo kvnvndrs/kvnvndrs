@@ -4,7 +4,7 @@
   <img src="https://img.icons8.com/nolan/96/shield.png" alt="Shield Icon" width="150">
 </p>
 
-## 🔐 Digital Guardian Profile
+## 🔐 Digital Profile
 
 ```bash
 Name: Emmanuel Valdez
@@ -14,15 +14,13 @@ OS: Learning Mode
   
 ---
 
-## 🎯 Cyber Arsenal (Certifications)
+## 🎯 Certifications
 
 | ![Deep Learning](https://img.shields.io/badge/-AI%20Defense%20Specialist-00ff00?style=flat&logo=tensorflow&logoColor=black) | ![Google Security](https://img.shields.io/badge/-Google%20Cyber%20Ops-00ff00?style=flat&logo=google&logoColor=white) |
 |-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **DeepLearning.AI TensorFlow**<br>Neural Network Security                                                                   | **Google Cybersecurity**<br>Threat Analysis & Risk Management                                                       |
 
 ---
-
-## 💻 Cyber Toolkit
 
 ### ⚔️ Programming & Security Stack
 
