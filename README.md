@@ -37,8 +37,6 @@ OS: Learning Mode
 
 ---
 
-## 🚨 Cyber Command Center
-
 [![LinkedIn](https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-emmanuel-valdez-vanderas-50786a292)
 
 ---
