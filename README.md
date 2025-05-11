@@ -16,7 +16,7 @@ OS: Learning Mode
 
 ## 🎯 Certifications
 
-| ![Deep Learning](https://img.shields.io/badge/-AI%20IA%20Specialist-00ff00?style=flat&logo=tensorflow&logoColor=black) | ![Google Security](https://img.shields.io/badge/-Google%20Cyber%20Ops-00ff00?style=flat&logo=google&logoColor=white) |
+| ![Deep Learning](https://img.shields.io/badge/-IA%20Specialist-00ff00?style=flat&logo=tensorflow&logoColor=black)           | ![Google Security](https://img.shields.io/badge/-Google%20Cyber%20Ops-00ff00?style=flat&logo=google&logoColor=white) |
 |-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **DeepLearning.AI TensorFlow**<br>Neural Network                                                                            | **Google Cybersecurity**<br>Threat Analysis & Risk Management                                                       |
 
