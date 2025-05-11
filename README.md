@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Kevin Emmanuel Valdez Vanderas - GitHub Profile</title>
+  <h1>Kevin Emmanuel Valdez Vanderas - GitHub Profile</h1>
 </head>
 <body>
 
