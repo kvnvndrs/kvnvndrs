@@ -40,15 +40,5 @@ OS: Learning Mode
 ## 🚨 Cyber Command Center
 
 [![LinkedIn](https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-emmanuel-valdez-vanderas-50786a292)
-
-<p align="center">
-  ![Bug Bounty](https://img.shields.io/badge/-Bug_Bounty-DA4453?style=for-the-badge&logo=hackerone&logoColor=white)  
-![Pen Testing](https://img.shields.io/badge/-Pen_Testing-4B32C3?style=for-the-badge&logo=bugcrowd&logoColor=white)  
-![Encryption](https://img.shields.io/badge/-Encryption-000000?style=for-the-badge&logo=lock&logoColor=white&logoSource=octicon)  
-![Digital Defense](https://img.shields.io/badge/-Digital_Defense-0A66C2?style=for-the-badge&logo=shield&logoColor=white&logoSource=octicon)
-</p>
-
----
-
 [![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvnvndrs&show_icons=true&theme=radical&count_private=true&hide=stars,contribs&line_height=24&custom_title=My%20GitHub%20Statistics)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnvndrs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
