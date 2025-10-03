@@ -44,13 +44,6 @@ Hi, I'm **Kevin Emmanuel Valdez Vanderas**, a passionate DevSecOps Engineer focu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-## GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kvnvndrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnvndrs&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/kevin-emmanuel-valdez-vanderas-50786a292)
