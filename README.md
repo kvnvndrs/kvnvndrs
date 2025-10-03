@@ -5,7 +5,7 @@ Hi, I'm **Kevin Emmanuel Valdez Vanderas**, a passionate DevSecOps Engineer focu
 ## Professional Experience
 
 - **CICESE (08/2025 - Present)**  
-  Working on the development of a security portal (without sharing private institutional information due to confidentiality agreement).
+  Working on the development of a security portal.
 - **ExIES (03/2025 - Present)**  
   Web development with modern technologies.
 - **Mariscos Arcos Playas (06/2024 - 12/2024)**  
@@ -34,31 +34,15 @@ Hi, I'm **Kevin Emmanuel Valdez Vanderas**, a passionate DevSecOps Engineer focu
 
 ## Technology Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-## Currently Learning
-
-```python
-current_focus = {
-    "certification": "CompTIA Security+ (2025)",
-    "skills": [
-        "SIEM Tools (Splunk, ELK Stack)",
-        "Advanced DevSecOps Practices",
-        "Cloud Security (AWS/Azure)"
-    ],
-    "projects": "Security Portal - CICESE",
-    "goal": "Become an expert in DevSecOps"
-}
-```
 
 ## GitHub Statistics
 
