@@ -1,42 +1,76 @@
-# 🛡️ Welcome to My Cyber Profile
+# Data Security & DevSecOps Profile
 
-<p align="center">
-  <img src="https://img.icons8.com/nolan/96/shield.png" alt="Shield Icon" width="150">
-</p>
+Hi, I'm **Kevin Emmanuel Valdez Vanderas**, a passionate DevSecOps Engineer focused on data security and secure software development.
 
-## 🔐 Digital Profile
+## Professional Experience
 
-```bash
-Name: Emmanuel Valdez
-Role: Cybersecurity Enthusiast | セキュリティの鬼
-OS: Learning Mode
-```
-  
----
+- **CICESE (08/2025 - Present)**  
+  Working on the development of a security portal (without sharing private institutional information due to confidentiality agreement).
+- **ExIES (03/2025 - Present)**  
+  Web development with modern technologies.
+- **Mariscos Arcos Playas (06/2024 - 12/2024)**  
+  Full stack web developer.
 
-## 🎯 Certifications
+## Specialization
 
-| ![Deep Learning](https://img.shields.io/badge/-IA%20Specialist-00ff00?style=flat&logo=tensorflow&logoColor=black)           | ![Google Security](https://img.shields.io/badge/-Google%20Cyber%20Ops-00ff00?style=flat&logo=google&logoColor=white) |
-|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **DeepLearning.AI TensorFlow**<br>Neural Network                                                                            | **Google Cybersecurity**<br>Threat Analysis & Risk Management                                                       |
+- **DevSecOps & Secure Development**
+- **Encryption:** AES, RSA
+- **Vulnerability Analysis:** OWASP, NIST NVD API
+- **SIEM Exploration:** Currently learning about security information and event management systems.
 
----
+## Highlighted Projects
 
-### ⚔️ Programming & Security Stack
+- **Security Portal at CICESE**  
+  General mention, respecting all institutional confidentiality clauses.
 
+- **Token Encryption Implementation:**  
+  Achieved secure token handling in web development.
+
+## Certifications
+
+- **Google Cybersecurity Certificate**
+- **DeepLearning.AI TensorFlow Developer**
+- **CompTIA Security+ (in progress)**
+
+## Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Network Security](https://img.shields.io/badge/Network_Security-4B32C3?style=for-the-badge&logo=network-attachment-storage&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hatenabookmark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-252525?style=for-the-badge&logo=metasploit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+## Currently Learning
+
+```python
+current_focus = {
+    "certification": "CompTIA Security+ (2025)",
+    "skills": [
+        "SIEM Tools (Splunk, ELK Stack)",
+        "Advanced DevSecOps Practices",
+        "Cloud Security (AWS/Azure)"
+    ],
+    "projects": "Security Portal - CICESE",
+    "goal": "Become an expert in DevSecOps"
+}
+```
+
+## GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kvnvndrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnvndrs&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/kevin-emmanuel-valdez-vanderas-50786a292)
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-emmanuel-valdez-vanderas-50786a292)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnvndrs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+> My mission is to help people avoid cyber attacks and scams on the internet, inspired by my own experience as a victim.  
