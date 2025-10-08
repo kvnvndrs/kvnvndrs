@@ -4,12 +4,10 @@ Hi, I'm **Kevin Emmanuel Valdez Vanderas**, a passionate DevSecOps Engineer focu
 
 ## Professional Experience
 
-- **CICESE (08/2025 - Present)**  
+- **CICESE (08/2025 - Present)**
   Working on the development of a security portal.
-- **ExIES (03/2025 - Present)**  
+- **ExIES (03/2025 - Present)**
   Web development with modern technologies.
-- **Mariscos Arcos Playas (06/2024 - 12/2024)**  
-  Full stack web developer.
 
 ## Specialization
 
@@ -20,10 +18,10 @@ Hi, I'm **Kevin Emmanuel Valdez Vanderas**, a passionate DevSecOps Engineer focu
 
 ## Highlighted Projects
 
-- **Security Portal at CICESE**  
+- **Security Portal at CICESE**
   General mention, respecting all institutional confidentiality clauses.
 
-- **Token Encryption Implementation:**  
+- **Token Encryption Implementation:**
   Achieved secure token handling in web development.
 
 ## Certifications
@@ -50,4 +48,4 @@ Hi, I'm **Kevin Emmanuel Valdez Vanderas**, a passionate DevSecOps Engineer focu
 
 ---
 
-> My mission is to help people avoid cyber attacks and scams on the internet, inspired by my own experience as a victim.  
+> I want to help people avoid cyber attacks and scams on the internet, inspired by my own experience as a victim.  
