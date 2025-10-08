@@ -47,4 +47,4 @@ Hi, I'm **Kevin Emmanuel Valdez Vanderas**, a passionate DevSecOps Engineer focu
 
 ---
 
-> I want to help people avoid cyber attacks and scams on the internet, inspired by my own experience as a victim.  
+> I want to help people avoid cyber attacks and scams on the internet, inspired by my own experience as a victim.
