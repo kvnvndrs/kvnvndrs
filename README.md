@@ -1,6 +1,6 @@
 # Data Security & DevSecOps Profile
 
-Hi, I'm **Kevin Emmanuel Valdez Vanderas**, DevSecOps Engineer focused on data security and secure software development.
+Hi, I'm **Emmanuel Vanderas**, DevSecOps Engineer focused on data security and secure software development.
 
 ## Professional Experience
 
