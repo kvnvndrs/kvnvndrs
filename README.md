@@ -42,7 +42,7 @@ Hi, I'm **Emmanuel Vanderas**, DevSecOps Engineer focused on data security and s
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## My Site
-- [Site](https://kvnvndrsportfolio.netlify.app/).
+- [Site](https://kvnvndrsportfolio.netlify.app/)
 
 ## Contact
 
